@@ -1,0 +1,166 @@
+body {
+
+	background-image: url(images/memphis-colorful.png);
+    margin: 0px;
+    
+}
+
+#toparea {
+    padding-top: 10px;
+    border-bottom: 1px solid black;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(237, 237, 237, 0.3);
+    position: fixed;
+    width: 100%;
+    color: #212328;
+    
+}
+
+#logo {
+    
+    
+}
+
+nav {
+    position: sticky;
+    
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    top: 0;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: #212328;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: rgba(237, 237, 237, 0.35);
+}
+
+main li a:hover {
+   color: antiquewhite; 
+    
+}
+
+main li a:visited {
+    
+    
+}
+
+
+
+#wrapper {
+    margin: auto;
+	width: 950px;
+    font-family: 'Roboto', sans-serif;
+	
+}
+
+#hero {
+    padding-top: 145px;
+    
+}
+
+main {
+    padding-top: 140px;
+    color: #212328;
+    
+    
+}
+
+main ul {
+   list-style-image: url(images/spraycan_bullet.png);
+    
+}
+
+main li {
+    padding: 40px 0px 40px 5px;
+    
+    
+}
+
+main li a:link {
+    text-decoration: none;
+    color: #212328;
+}
+
+main li a:hover {
+   color: #3F434D;
+    text-decoration: underline;
+    
+}
+
+main li a:visited {
+    color: #555A66;
+    
+}
+
+header h1 {
+    padding: 0px 0px 5px 0px;
+    display: inline;
+    font-size: 4em
+}
+
+.description {
+    
+}
+
+#col1 {
+    float: left;
+}
+
+#col2 {
+    float: left;
+    padding: 0px 25px 0px 25px;
+    
+}
+
+#col3 {
+    float: left;
+    
+}
+
+div.gallery {
+    margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 450px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.desc {
+    padding: 10px;
+    background-color: rgba(237, 237, 237, 0.3);
+    text-align: center;
+}
+
+footer {
+    clear: both;
+    border-top: 1px solid #777;
+    height: 100px;
+    padding-top: 10px;
+    
+    
+}
+
+footer img {
+    display: block;
+    margin: 0px auto;
+    
+}

@@ -1,0 +1,75 @@
+/*
+Color Palette
+    #373737 - Dark Grey
+    #353535 - Darker Grey
+    #E53B4A - Red
+    #F4F4F4 - Whitish
+
+*/
+
+#wrapper {
+   font-family: 'Roboto', sans-serif;
+    min-width: 700px;
+    max-width: 900px;
+    line-height: 150%;
+    width: 80%;
+    margin: auto;
+    background-color: #373737;
+    color: #F9F9F9;
+    
+}
+
+body {
+    background-color: #353535;
+    
+    
+}
+
+header {
+    font-size: 1.5em;
+    width: 100%;
+    border-bottom-style: solid;
+    
+    
+}
+
+main {
+    display: block;
+    
+    
+    
+}
+
+h1 {
+    line-height: 2em;
+    color: #E53B4A;
+    
+    
+    
+}
+
+h2 {
+    color: #EAEAEA;
+    
+    
+}
+
+p {
+    
+    
+    
+}
+
+a:link {
+    text-decoration: none;
+    color: #F9F9F9;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #F76060;
+    
+}

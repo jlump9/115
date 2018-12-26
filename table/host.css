@@ -1,0 +1,47 @@
+#wrapper {
+	width: 800px;
+	background-color: #63ADF2;
+	font-family: helvetica, sans-serif;
+	margin: auto;
+    color: #FCF7F8;
+	
+	
+}
+
+body {
+	background-color: #304D6D;
+	
+}
+
+
+
+h1 {
+	text-align: center;
+    font-size:3em;
+    
+}
+
+header {
+	text-align: center;
+}
+
+.hosts {
+	background-color: #99DDC8;
+	border: 7px groove #A31621;
+	margin: auto;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+.hosts th, td {
+	border: 1px solid #A31621;
+	padding: 5px;
+	text-align: center;
+	
+}
+
+footer {
+	text-align: center;
+	border-top: 2px solid #A31621;
+}
+

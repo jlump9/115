@@ -1,0 +1,36 @@
+#wrapper {
+	width: 500px;
+	background-color: #E9F1F7;
+    opacity: .7;
+	font-family: helvetica, sans-serif;
+	margin: auto;
+    color: #3A3B3A;
+    padding:0px 30px 5px 30px;
+	
+	
+}
+
+body {
+    background-color: #E7DFC6;
+    
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: #2274A5;
+    padding-top: 10px;
+    
+}
+
+form {
+    margin-bottom: 40px;
+    
+    
+}
+footer {
+    text-align: center;
+    padding-top: 10px;
+    
+}
